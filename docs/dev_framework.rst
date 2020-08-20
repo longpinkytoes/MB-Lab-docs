@@ -25,7 +25,7 @@ Allows the editing of existing base character models
    expression_editor
 
 
-**Model Intergration**
+**Model Integration**
 
 Tools to create the JSON data required for base character models
 
