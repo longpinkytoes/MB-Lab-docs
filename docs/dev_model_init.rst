@@ -1,4 +1,4 @@
-Model Intergration
+Model Integration
 ==================
 
 This part of the MB-Dev tools is to add new characters to the MB-Lab library.
