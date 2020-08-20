@@ -22,7 +22,7 @@ It's a file where the locations of the head and tails of for for skeletons, base
 
 Offset File
 
-Sometimes the joint is used for inverted kinematics. This file allows to offset it in order to place the command. (the icosphere circled in green)
+Sometimes the joint is used for inverse kinematics. This file allows to offset it in order to place the command. (the icosphere circled in green)
 
 The tool for these 2 files drives the creator a lot, as the names can't be changed, as the number of bones.
 
